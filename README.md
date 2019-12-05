@@ -1,1 +1,1 @@
-[![Build Status](https://www.travis-ci.org/EmpireRo/labb1.svg?branch=master)](https://www.travis-ci.org/EmpireRo/labb1)
+[![Build Status](https://travis-ci.org/EmpireRo/lab111.svg?branch=master)](https://travis-ci.org/EmpireRo/lab111)
